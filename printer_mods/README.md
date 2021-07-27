@@ -67,6 +67,7 @@ like so:
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
+||[Voron_V0.1_Parts_Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |DaGlo| [V0.1 Duet 2 Wifi mounting brackets](./DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/) | Voron 0.1 Mounting brackets with/without RPi 4 | :heavy_check_mark: | :x: | :x: | :x: |
@@ -100,6 +101,7 @@ like so:
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
@@ -138,6 +140,7 @@ like so:
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
+| Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
@@ -171,6 +174,7 @@ like so:
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
+|mpfl |[V0.1 OLED-skirt](./mpfl/V0.1_skirt_OLED) |V0.1 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
@@ -185,19 +189,25 @@ like so:
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
+|Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
+| Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: | 
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |:x:|
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
+| revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
+| rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
+| sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
+| Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :x: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
@@ -214,6 +224,7 @@ like so:
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
 | Triano | [Ender 3 Pro or V2 to Switchwire Mod](./Triano/Ender_3Pro_Switchwire) | Convesion of an Ender 3 Pro or V2 to a Switchwire | :x: | :x: | :x: | :heavy_check_mark: |
+| UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
